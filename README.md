@@ -5,7 +5,7 @@ A complete 3 projects of Jonas Schmedtmann's Udemy course [Course Link](https://
 What I've learned:
 
 - Advanced CSS: Flexbox, Grid, Animations, Responsive,...
-- Sass
+- Sass, BEM
 - How CSS works behind the scenes
 
 | #   | Project | Live Demo                                                     |
