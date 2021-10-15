@@ -10,4 +10,4 @@ What I've learned:
 
 | #   | Project | Live Demo                                                             |
 | --- | ------- | --------------------------------------------------------------------- |
-| 1   | Natours | [Live Demo](https://kryonics.me/advanced-css-and-sass-course/Natours) |
+| 1   | Natours | [Live Demo](https://kryonics.me/advanced-css-and-sass-course/Natours/index.html) |
